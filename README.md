@@ -41,3 +41,10 @@ Access the faucet website to get some tRBTC and deploy the smart contract [click
 ```
 npx hardhat run scripts/deploy.js --network rsktestnet
 ```
+1
+
+2
+
+3
+
+4
